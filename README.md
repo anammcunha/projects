@@ -1,2 +1,2 @@
-# projects
-My projects from coding courses
+# Projects
+Projects from my courses 
