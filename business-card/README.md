@@ -1,10 +1,13 @@
 
 # Business card
 
+
 ## Description 
 My digital business card
 
-##Requirements
+
+## Requirements
+
 1. Built with flexbox
 2. Added my profile picture
 3. Changed colors and fonts
