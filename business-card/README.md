@@ -13,4 +13,5 @@ My digital business card
 3. Changed colors and fonts
 4. Added 'about me' text
 5. Applied margin/padding shorthands
+6. Applied hover effects and animations
 
